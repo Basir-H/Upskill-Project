@@ -22,7 +22,7 @@ function App() {
   return (
     <div>
       <Navbar/>
-      <h2 className={styles}>React</h2>
+      <h2 className={styles.heading2}>React</h2>
     </div>
   )
 }
