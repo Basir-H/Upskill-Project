@@ -20,10 +20,15 @@ function App() {
   
 
   return (
-    <div>
-      <Navbar/>
-      <h2 className={styles.heading2}>React</h2>
-    </div>
+    <>
+      <div className='bg-primary w-full overflow-hidden text-white'>
+        <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+          <div className={`${styles.boxWidth}`}>
+            <Navbar/>
+          </div>
+        </div>
+      </div>
+    </>
   )
 }
 
