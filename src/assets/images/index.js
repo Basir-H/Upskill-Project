@@ -18,7 +18,7 @@ import robot from './robot.png';
 import people01 from './people01.png';
 import people02 from './people02.png';
 import people03 from './people03.png';
-import star from './star.svg';
+import star from './Star.svg';
 import shield from './shield.svg';
 import send from './send.svg';
 import quotes from './quotes.svg';
